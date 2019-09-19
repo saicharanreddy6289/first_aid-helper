@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/navheader_height"
+    android:background="?attr/colorPrimaryDark"
+    android:orientation="vertical"
+    android:padding="@dimen/md_keylines">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:fadingEdge="vertical"
+        android:layout_height="187dp"
+        android:layout_above="@+id/captureImageButton"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="116dp"
+        android:src="@drawable/logo2"></ImageView>
+</LinearLayout>

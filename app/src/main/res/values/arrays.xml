@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (C) 2016 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+
+
+
+    <string-array name="phone_numbers">
+        <item>911</item>
+        <item>+19024123375</item>
+        <item>+19024485445</item>
+        <item>+19024485445</item>
+        <item>+19024485445</item>
+        <item>+19024485445</item>
+        <item>+19024485445</item>
+
+    </string-array>
+
+    <string-array name="treatment_methods">
+        <item>
+        \u2022 Encourage the person to support the injury with their hand or use a cushion or items of clothing to prevent unnecessary movement.\n
+
+\u2022 If the injured area is obviously deformed the broken bone is protruding through the skin, the area below the injury is numb, pale, blue or cold, the injury is significantly painful, or the person cannot be safely transformed to a medical facility, call Emergency service to get someone else to do it.\n
+\u2022 Make sure the injury is supported until help arrives
+
+        </item>
+        <item>
+            \u2022 The person may have Pressure, tightness, pain, or a squeezing or aching sensation in your chest or arms that may spread to your neck, jaw or back. The person may also experience. The person may have nausea, indigestion, heartburn or abdominal pain, shortness of breath, cold sweat, fatigue, light-headedness or sudden dizziness.\n
+            \u2022 call Emergency service to get someone else to do it.\n
+            \u2022 Have the person chew either 1 regular-strength or 2 low-dose ASA(Aspirin) tablets, if the person is not allergic.\n
+            \u2022 Have the person rest quietly in a comfortable position.\n
+            \u2022 Give them constant reassurance while waiting for EMS personnel.\n
+
+        </item>
+        <item>
+            \u2022 The persons skin may be hot or red and may also be dry or moist; they may be experiencing a severe headache, altered behaviours, change in responsiveness, rapid, shallow breathing, and a high body temperature.\n
+            \u2022 Call 911 as soon as possible or get someone else do it.\n
+            \u2022 Move the person to a cooler place. Remove or loosen tight clothing. Fan the person. Actively cool the person by immersing the persons body in cool water, immersing the forearms in cool water, or pouring water on the persons torso. Apply cool, wet clothes or towels to the skin. If they are alert, give small amounts of cool water to drink. Make sure they drink slowly.\n
+            \u2022 If needed, cool, wet clothes or towels applied to the skin or ice packs wrapped in a cloth applied to the wrists, ankles, groin, neck, and armpits can be used for cooling.\n
+
+        </item>
+        <item>
+            \u2022 Have them rest quietly and apply a cold compress to the injury (e.g. ice pack, frozen vegetables wrapped in a towel).\n
+            \u2022 If they become confused or drowsy, have impaired vision, balance or breathing, or they experience weakness, tingling, loss of sensation or vomiting, call EMS or get someone else to do it.\n
+
+        </item>
+        <item>
+
+    Remember RICE: \n
+    \u2022 Rest \n
+    \u2022 Immobilixe \n
+    \u2022 Cold \n
+    \u2022 Elevate.
+
+        </item>
+        <item>
+            \u2022 Help the person sit in a comfortable position and help them take their medication. \n
+            \u2022 Reassurance the person. If the attack becomes severe, they don\'t have their medication, or they don\'t improve with medication. Call EMS or get someone else to do it.
+
+        </item>
+        <item>
+            \u2022 Look for fang marks and swelling, person will fail the pain. \n
+            \u2022 Gently wash the wound with clean water and cover it with a dry dressing.\n
+            \u2022 If the bite is on a limb, remove any jewellery or tight clothing from the limb.\n
+            \u2022 Keep the person as still as possible, do not allow him or her to walk unless necessary. Keep the bitten part lower than the heart.
+
+
+        </item>
+        <item>\u2022 Help the person sit in a comfortable position and help them take their medication. \n
+            \u2022 Reassurance the person. If the attack becomes severe, they don\'t have their medication, or they don\'t improve with medication. Call EMS or get someone else to do it.
+
+        </item>
+        <item>
+            \u2022 Cool the burn under cool running water, or with a cool (not freezing) compress, for at least ten minutes. \n
+            \u2022 If the burn requires further medical care, cover the burn loosely with a dry, sterile dressing.
+
+
+        </item>
+
+    </string-array>
+
+    <array name="injury_avator">
+        <item>@drawable/broken_bone</item>
+        <item>@drawable/heart_attack</item>
+        <item>@drawable/sun_stroke</item>
+        <item>@drawable/head_injury</item>
+        <item>@drawable/strain</item>
+        <item>@drawable/asthama</item>
+        <item>@drawable/snake_bite</item>
+        <item>@drawable/poison</item>
+        <item>@drawable/fire</item>
+    </array>
+    <string-array name="injuries">
+        <item>Broken Bone</item>
+        <item>Cardiac Arrest</item>
+        <item>Sun Stroke</item>
+        <item>Head Injury</item>
+        <item>Strain and Sprains</item>
+        <item>Asthama attack</item>
+        <item>Snake Bite</item>
+        <item>Poisoning</item>
+        <item>Burns</item>
+    </string-array>
+
+    <string-array name="Doctors">
+        <item>Call Emergency</item>
+        <item>Cardiologist</item>
+        <item>Orthopedic</item>
+        <item>Dermatologists</item>
+        <item>Neurologists</item>
+        <item>Pediatricians</item>
+        <item>Urologists</item>
+
+    </string-array>
+    <string-array name="Doctorslist">
+        <item>select</item>
+        <item>Cardiologist</item>
+        <item>Orthopedic</item>
+        <item>Dermatologists</item>
+        <item>Neurologists</item>
+        <item>Pediatricians</item>
+        <item>Urologists</item>
+
+    </string-array>
+
+    <string-array name="emails">
+        <item>saicharan6289@gmail.com</item>
+        <item>saicharan6289@gmail.com</item>
+        <item>saicharan6289@gmail.com</item>
+        <item>saicharan6289@gmail.com</item>
+        <item>saicharan6289@gmail.com</item>
+        <item>saicharan6289@gmail.com</item>
+        <item>saicharan6289@gmail.com</item>
+
+    </string-array>
+
+
+    <array name="doctorimages">
+        <item>@drawable/e_emer</item>
+        <item>@drawable/cardiologist</item>
+        <item>@drawable/orthopedic</item>
+        <item>@drawable/dermatology</item>
+        <item>@drawable/neurologist</item>
+        <item>@drawable/pediatrician</item>
+        <item>@drawable/urology</item>
+    </array>
+</resources>

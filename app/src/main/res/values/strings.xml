@@ -1,0 +1,21 @@
+<resources>
+<string name="app_name">"First aid Helper"</string>
+
+<string name="item_title">Broken Bone</string>
+
+<string name="detail_desc">\u2022 Encourage the person to support the injury with their hand or use a cushion or items of clothing to prevent unnecessary movement.\n
+
+\u2022 If the injured area is obviously deformed the broken bone is protruding through the skin, the area below the injury is numb, pale, blue or cold, the injury is significantly painful, or the person cannot be safely transformed to a medical facility, call Emergency service to get someone else to do it.\n
+\u2022 Make sure the injury is supported until help arrives
+
+    </string>
+<string name="aboutus">
+     \u2022 Saicharan Reddy  B00826400  sc224515@dal.ca \n
+    \u2022 Shashank Reddy   B00823341  sh375383@dal.ca \n
+    \u2022 We are persuing masters at Dalhousie University. \n
+    \u2022 We have developed this application only for academic purpose.
+
+</string>
+    <string name="sharephoto">Share Photo</string>
+    <string name="takephoto">Take Photo"</string>
+</resources>
